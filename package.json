@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.16.3"
+  },
+  "name": "spanishvocab-api",
+  "description": "2000 most used Spanish nouns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seans98/spanishvocab-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seans98/spanishvocab-api/issues"
+  },
+  "homepage": "https://github.com/seans98/spanishvocab-api#readme"
+}
